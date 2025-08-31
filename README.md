@@ -8,7 +8,7 @@ I'm excited to share a bit about myself as a data scientist. With a deep passion
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [abdur363@gmail.com](mailto:abdur363@gmail.com)
-* 🧠  I'm learning Deep Learning and Big Data
+* 🧠  I'm learning Generative AI and LLM
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm A Data Wizard, Tell Everyone!
 
